@@ -1,4 +1,4 @@
-# Intelligent-Irrigation-System
+# Intelligent Irrigation System - An IOT enabled water management system with intrusion detection mechanism
 
 ## Overview
 An IoT-enabled water management system and integrated intrusion detection mechanism
