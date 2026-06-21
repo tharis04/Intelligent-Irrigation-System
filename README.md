@@ -25,3 +25,7 @@ ESP32 Microcontroller, Soil Moisture Sensors, Rain Sensor, PIR Sensor, Relay Mod
 
 ## Circuit - Wokwi IOT simulator:
 ![Alt Text](./IIS_Circuit.png)
+
+## Blynk IOT dashboard
+![Alt Text](./Blynk1.png)
+![Alt Text](./Blynk2.png)
