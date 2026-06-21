@@ -4,6 +4,8 @@
 An IoT-enabled water management system and integrated intrusion detection mechanism
 Inspired by industrial smart farming solutions, this project focuses on creating an affordable and efficient automation system.
 
+---
+
 ## Key Features:
 • Automated irrigation based on soil moisture levels and crop requirements
 
@@ -19,12 +21,17 @@ Inspired by industrial smart farming solutions, this project focuses on creating
 
 • LCD display for instant field status updates
 
+---
+
 ## Technologies Used:
 ESP32 Microcontroller, Soil Moisture Sensors, Rain Sensor, PIR Sensor, Relay Module, IoT Cloud Platforms, Wokwi IOT Simulator
 
+---
 
 ## Circuit - Wokwi IOT simulator:
 ![Alt Text](./IIS_Circuit.png)
+
+---
 
 ## Blynk IOT dashboard
 ![Alt Text](./Blynk1.png)
