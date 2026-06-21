@@ -22,5 +22,6 @@ Inspired by industrial smart farming solutions, this project focuses on creating
 ## Technologies Used:
 ESP32 Microcontroller, Soil Moisture Sensors, Rain Sensor, PIR Sensor, Relay Module, IoT Cloud Platforms, Wokwi IOT Simulator
 
-## Circuit - Wokwi IOT simulator
+
+## Circuit - Wokwi IOT simulator:
 ![Alt Text](./IIS_Circuit.png)
